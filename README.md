@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-I am a passionate and skilled Frontend Developer with expertise in React JS for building dynamic website. I have hands-on experience working with modern JavaScript frameworks and libraries, including Node.js, and Material-UI (MUI), to create seamless, user-friendly interfaces and experiences.
+I am a passionate and skilled Frontend Developer with expertise in React JS for building dynamic website. I have hands-on experience working with modern JavaScript frameworks and libraries and Material-UI (MUI), to create seamless, user-friendly interfaces and experiences.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.gautam16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gautamrajput1216@gmail.com) 
